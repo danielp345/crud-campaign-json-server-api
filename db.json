@@ -1,16 +1,24 @@
 {
-  "posts":[
+  "campaigns": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "name": "test555",
+      "keywords": "123",
+      "bidAmount": "12",
+      "fund": "12",
+      "status": "on",
+      "town": "Cracow",
+      "radius": "44",
+      "id": 1
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "name": "vv",
+      "keywords": "cdsa",
+      "bidAmount": "1",
+      "fund": "10",
+      "status": "on",
+      "town": "Cracow",
+      "radius": "9",
+      "id": 2
     }
   ]
 }
